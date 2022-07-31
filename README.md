@@ -11,3 +11,4 @@ Very interesting part about Linux. I installed it on my virtual machine for cons
 ## Git Collaboration
 ![alt text](https://github.com/H0us5/kottans-frontend/blob/236e4824599f0a54045d22eb1fa26c07fee2d6db/task_git_collaboration/git1.png)
 ![alt text](https://github.com/H0us5/kottans-frontend/blob/236e4824599f0a54045d22eb1fa26c07fee2d6db/task_git_collaboration/git2.png)
+I was familiar with the git but very superficially as it turned out. The last quests made me scratch my head. It was difficult, but after passing you experience special pleasure.
