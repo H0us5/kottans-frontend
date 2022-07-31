@@ -7,3 +7,7 @@ Hyped. Lets start!
 ![alt text](https://github.com/H0us5/kottans-frontend/blob/2c30b861742db9dd2ea67d0d41222e70dbe4ac44/task_linux_cli/module%203.png)
 ![alt text](https://github.com/H0us5/kottans-frontend/blob/2c30b861742db9dd2ea67d0d41222e70dbe4ac44/task_linux_cli/module%204.png)
 Very interesting part about Linux. I installed it on my virtual machine for constant practice. I was familiar with HTTP protocols.
+
+## Git Collaboration
+![alt text](https://github.com/H0us5/kottans-frontend/blob/236e4824599f0a54045d22eb1fa26c07fee2d6db/task_git_collaboration/git1.png)
+![alt text](https://github.com/H0us5/kottans-frontend/blob/236e4824599f0a54045d22eb1fa26c07fee2d6db/task_git_collaboration/git2.png)
